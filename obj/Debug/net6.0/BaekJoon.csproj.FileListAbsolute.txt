@@ -1,0 +1,5 @@
+D:\HaDo\Programming\Practice\BaekJoon\obj\Debug\net6.0\BaekJoon.csproj.AssemblyReference.cache
+D:\HaDo\Programming\Practice\BaekJoon\obj\Debug\net6.0\BaekJoon.GeneratedMSBuildEditorConfig.editorconfig
+D:\HaDo\Programming\Practice\BaekJoon\obj\Debug\net6.0\BaekJoon.AssemblyInfoInputs.cache
+D:\HaDo\Programming\Practice\BaekJoon\obj\Debug\net6.0\BaekJoon.AssemblyInfo.cs
+D:\HaDo\Programming\Practice\BaekJoon\obj\Debug\net6.0\BaekJoon.csproj.CoreCompileInputs.cache
